@@ -6,7 +6,7 @@ import db  # Ensure DB setup is done
 import os
 
 # Set Google Gemini API key
-os.environ["GOOGLE_API_KEY"] = "AIzaSyA8-Q1tO01v3RN3OW_VXezySZ9EVxIN4Ho"
+os.environ["GOOGLE_API_KEY"] = "A************************************************xt"
 
 # LangChain + Gemini
 from langchain_google_genai import ChatGoogleGenerativeAI
