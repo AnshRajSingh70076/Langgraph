@@ -5,7 +5,7 @@ from langchain_core.messages import HumanMessage
 
 import os
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyA8-Q1tO01v3RN3OW_VXezySZ9EVxIN4Ho"
+os.environ["GOOGLE_API_KEY"] = "AIzaSyA8-Q1tO01*******88888888888OWEVxIN4Ho"     
 
 class GraphState(TypedDict):
     msg: Annotated[list[str], "Conversation history"]
