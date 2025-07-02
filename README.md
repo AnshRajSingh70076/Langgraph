@@ -1,4 +1,5 @@
-##This README is for chatbot.py
+##This README is for chatbot.py,![Untitled Diagram drawio (34)](https://github.com/user-attachments/assets/d12198f0-3317-4155-9b09-5eda418fdc76)
+
 This project is an intelligent chatbot that answers medical questions using both structured database info and unstructured PDF content. It is built using LangGraph, LangChain, and Groq’s LLaMA 3 model.
 
 🔧 Features
