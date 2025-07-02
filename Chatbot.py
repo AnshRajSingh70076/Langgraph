@@ -17,7 +17,7 @@ from langchain_groq import ChatGroq
 from langgraph.graph import StateGraph
 
 # === Set API Key ===
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "gsk_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 # === Paths ===
 db_path = r"C:\\Users\\rajs1\\Downloads\\newdata.db\\ansh.db"
