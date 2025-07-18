@@ -20,7 +20,7 @@ from langgraph.graph import StateGraph
 os.environ["GROQ_API_KEY"] = "gsk_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 # === Paths ===
-db_path = r"C:\\Users\\rajs1\\Downloads\\newdata.db\\ansh.db"
+db_path = r"Path_of_database"
 chat_db_path = "chat_history.db"
 
 # === Chat History DB ===
